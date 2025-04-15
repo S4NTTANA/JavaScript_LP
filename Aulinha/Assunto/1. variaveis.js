@@ -1,0 +1,7 @@
+// Váriaveis.
+let nome = 'Marta'
+
+// Exibir no console.
+console.log(nome)
+
+// DOM
